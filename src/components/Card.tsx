@@ -1,6 +1,6 @@
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faBars } from '@fortawesome/free-solid-svg-icons/faBars';
-import { cn } from '../utils/cn';
+import { cn } from '../lib/utils/cn';
 import { faLock } from '@fortawesome/free-solid-svg-icons';
 type CardProps = {
     topic: string;
